@@ -20,4 +20,5 @@ Pod::Spec.new do |s|
 
   s.dependency 'Appboy-iOS-SDK', '~> 4.4.2'
   s.dependency 'React'
+  s.dependency 'React-Core'
 end
